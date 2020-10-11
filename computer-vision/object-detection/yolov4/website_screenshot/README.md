@@ -14,16 +14,16 @@ The Roboflow Website Screenshots dataset is a synthetically generated dataset co
     image - <img>, <svg>, or <video> tags, and icons.
     iframe - ads and 3rd party content.
 
-<p><b>Example:</p>
+<p><b>Example:</b></p>
 
 This is an example image and annotation from the dataset:
 <img src="sample.png"><br><br><br>
 
-<p><b>Usage:</p>
+<p><b>Usage:</b></p>
 
 Annotated screenshots are very useful in Robotic Process Automation. But they can be expensive to label. This dataset would cost over $4000 for humans to label on popular labeling services.
 
-<p><b>custom_objetc_detection:</p>
+<p><b>custom_objetc_detection:</b></p>
 
 I've trained this model with YOLOv4 darknet implemetation.
 
