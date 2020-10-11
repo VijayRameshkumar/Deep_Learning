@@ -23,7 +23,7 @@ This is an example image and annotation from the dataset:
 
 Annotated screenshots are very useful in Robotic Process Automation. But they can be expensive to label. This dataset would cost over $4000 for humans to label on popular labeling services.
 
-<p><b>custom_objetc_detection:</b></p>
+<p><b>custom_object_detection:</b></p>
 
 I've trained this model with YOLOv4 darknet implemetation.
 
