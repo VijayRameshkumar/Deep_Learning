@@ -23,12 +23,19 @@ This is an example image and annotation from the dataset:
 
 Annotated screenshots are very useful in Robotic Process Automation. But they can be expensive to label. This dataset would cost over $4000 for humans to label on popular labeling services.
 
-<p><b>custom_object_detection:</b></p>
+<h2><b>custom_object_detection: (YOLOv4)</b></h2>
 
 I've trained this model with YOLOv4 darknet implemetation.
 
-below, I've attached sample output results.<br><br>
+it yields promising results with <b>30FPS</b> in RTX 2080 Nvidia GPU
+
+This is the SOTA real-time object detection method.
+
+ASAP, I'll upload object-tracking tutorial for real-time.
+<br><br>
+
+<img src="yolov4.png"> <br><br>
+
+<p><b> below, I've attached sample output results: </b></p> <br><br>
 
 ![](website_text_detect_yolov4.gif)<br><br>
-
-
