@@ -9,13 +9,13 @@ Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a s
 <h1> DeepSORT on MOT dataset: </h1>
 
 ## Demo of Object Tracker on shopping corner outdoor
-<p align="center"><img src="data/helpers/demo.gif"\></p>
+<p align="center"><img src="data/helpers/mot1.gif"\></p>
 
 ## Demo of Object Tracker on shopping mall indoor
-<p align="center"><img src="data/helpers/cars.gif"\></p>
+<p align="center"><img src="data/helpers/mot2.gif"\></p>
 
 ## Demo of Object Tracker on crowded place
-<p align="center"><img src="data/helpers/demo.gif"\></p>
+<p align="center"><img src="data/helpers/mot3.gif"\></p>
 
 ## Demo of Object Tracker on Persons
 <p align="center"><img src="data/helpers/demo.gif"\></p>
