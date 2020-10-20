@@ -1,21 +1,21 @@
 # yolov4-deepsort
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zmeSTP3J5zu2d5fHgsQC06DyYEYJFXq1?usp=sharing)
-Speacial thanks to author theAIGUYSCODE.
+
+<p>Speacial thanks to author theAIGUYSCODE.</p>
 
 Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a state of the art algorithm that uses deep convolutional neural networks to perform object detections. We can take the output of YOLOv4 feed these object detections into Deep SORT (Simple Online and Realtime Tracking with a Deep Association Metric) in order to create a highly accurate object tracker.
 
 <h1> DeepSORT on MOT dataset: </h1>
 
-## Demo of Object Tracker on Persons
-<p align="center"><img src="data/helpers/demo.gif"\></p>
+## Demo of Object Tracker on shopping corner outdoor
+<p align="center"><img src="data/helpers/mot1.gif"\></p>
 
-## Demo of Object Tracker on Cars
-<p align="center"><img src="data/helpers/cars.gif"\></p>
+## Demo of Object Tracker on shopping mall indoor
+<p align="center"><img src="data/helpers/mot2.gif"\></p>
 
-## Demo of Object Tracker on Persons
-<p align="center"><img src="data/helpers/demo.gif"\></p>
-
+## Demo of Object Tracker on crowded place
+<p align="center"><img src="data/helpers/mot3.gif"\></p>
 
 ## Demo of Object Tracker on Persons
 <p align="center"><img src="data/helpers/demo.gif"\></p>
