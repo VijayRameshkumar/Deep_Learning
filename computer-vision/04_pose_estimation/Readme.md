@@ -13,3 +13,7 @@ hand
 <p>4. only for images. Same procedure for videos.</p>
 
 <b>Note:</b> For videos you'd predict output for each and every frame.
+
+<b> Example : </b>
+
+<img src="output.gif">
