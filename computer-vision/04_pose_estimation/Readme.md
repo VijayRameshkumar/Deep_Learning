@@ -1,4 +1,4 @@
-1. create 3 New-Folders namely
+<p>1. create 3 New-Folders namely</p>
 
 pose
 
@@ -6,10 +6,10 @@ face
 
 hand
 
-2. bash getModels.sh
+<p>2. bash getModels.sh</p>
 
-3. you will acripts in python_api folder to use wegihts for custom inputs.
+<p>3. you will acripts in python_api folder to use wegihts for custom inputs.</p>
 
-4. only for images. Same procedure for videos. 
+<p>4. only for images. Same procedure for videos.</p>
 
-<b>Note:</b> for videos you'd predict output for each and every frame.
+<b>Note:</b> For videos you'd predict output for each and every frame.
