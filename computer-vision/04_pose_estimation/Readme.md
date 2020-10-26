@@ -1,10 +1,12 @@
+<b> Instructions : </b>
+
 <p>1. create 3 New-Folders namely</p>
 
-pose
+<ol>pose</ol>
 
-face
+<ol>face</ol>
 
-hand
+<ol>hand</ol>
 
 <p>2. bash getModels.sh</p>
 
