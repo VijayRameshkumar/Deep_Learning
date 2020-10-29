@@ -1,0 +1,4 @@
+opencv
+opencv-contrib
+imutils
+numpy
