@@ -10,9 +10,9 @@
 <img src="water_coins.jpg">
 <br>
 
-```
-<h4><b>SCRIPT:</b></h4> 
+<h4>`<b>SCRIPT:</b>`</h4> 
 
+```
 pip install -r requirements.txt
 python coin_toss.py
 
