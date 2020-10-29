@@ -10,7 +10,7 @@
 <img src="water_coins.jpg">
 <br>
 
-<h4>`<b>SCRIPT:</b>`</h4> 
+`<b>SCRIPT:</b>`
 
 ```
 pip install -r requirements.txt
